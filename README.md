@@ -1,0 +1,1 @@
+This is WM first git project!
